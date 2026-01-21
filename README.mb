@@ -12,6 +12,7 @@ Teste e validação
 
 2. Simule diferentes exceções (como alterar permissões ou usar arquivos inexistentes) para verificar se o tratamento de exceções está funcionando corretamente.
 
+É necessário que os arquivos estejam dentro de diretorio_trabalho para que sejam movidos para suas pastas correspondentes
 
 Resultado esperado
 
