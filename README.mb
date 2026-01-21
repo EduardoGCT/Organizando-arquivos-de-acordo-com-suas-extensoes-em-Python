@@ -1,0 +1,18 @@
+Uma biblioteca pública digitaliza seus documentos e salva os arquivos em um diretório de trabalho. 
+Para facilitar a organização, você foi contratado para desenvolver um script em Python capaz de mover 
+automaticamente esses arquivos para subdiretórios específicos com base em suas extensões. O objetivo é 
+garantir que arquivos PDF sejam movidos para uma pasta pdf, documentos de texto para uma pasta txt e imagens para uma pasta img.
+
+Teste e validação
+
+
+1. Execute o script e verifique se os arquivos foram movidos para os diretórios corretos (pdf, txt, jpg).
+
+ 
+
+2. Simule diferentes exceções (como alterar permissões ou usar arquivos inexistentes) para verificar se o tratamento de exceções está funcionando corretamente.
+
+
+Resultado esperado
+
+O script deve criar os diretórios pdf, txt, e jpg se não existirem, mover os arquivos para os diretórios correspondentes com base em suas extensões e exibir mensagens informativas para qualquer exceção encontrada durante o processo.
